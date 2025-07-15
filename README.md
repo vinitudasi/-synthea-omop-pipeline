@@ -216,15 +216,5 @@ MIT — see `LICENSE`.
 
 ---
 
-## 11  Citation
 
-If you use OMOPSync in academic work, please cite:
-
-```bibtex
-@software{omopsync_2025,
-  title        = {OMOPSync},
-  author       = {Merlin Simoes, Aum Sathwara, Bjoern Sagstad, Harneet Dehiya, Vishnu Shanmugavel},
-  year         = 2025,
-  url          = {https://github.com/aumsathwara/omopsync}
-}
 ```
